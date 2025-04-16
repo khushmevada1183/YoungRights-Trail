@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="50" cy="50" r="40" fill="#4CAF50"/>
+    
+    <!-- Trail Path -->
+    <path d="M60 50 L250 50" stroke="#FFC107" stroke-width="8" stroke-linecap="round"/>
+    <path d="M250 50 L270 30" stroke="#FFC107" stroke-width="8" stroke-linecap="round"/>
+    <path d="M250 50 L270 70" stroke="#FFC107" stroke-width="8" stroke-linecap="round"/>
+    
+    <!-- Footprints -->
+    <circle cx="100" cy="50" r="4" fill="#2196F3"/>
+    <circle cx="150" cy="50" r="4" fill="#2196F3"/>
+    <circle cx="200" cy="50" r="4" fill="#2196F3"/>
+    
+    <!-- Text -->
+    <text x="100" y="80" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+        YoungRights Trail
+    </text>
+</svg> 

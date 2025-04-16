@@ -1,0 +1,98 @@
+/* Base container */
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+/* Mobile-first styles */
+.main-nav {
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.nav-links {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.nav-link {
+    justify-content: center;
+    padding: 1rem;
+}
+
+/* Tablet breakpoint */
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 750px;
+    }
+    
+    .main-nav {
+        flex-direction: row;
+    }
+    
+    .nav-links {
+        flex-direction: row;
+        margin-top: 0;
+    }
+    
+    .nav-link {
+        padding: 0.5rem 1rem;
+    }
+    
+    .features {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Desktop breakpoint */
+@media screen and (min-width: 1024px) {
+    .container {
+        max-width: 970px;
+    }
+    
+    .features {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .hero h1 {
+        font-size: 3rem;
+    }
+}
+
+/* Large desktop breakpoint */
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
+
+/* Accessibility enhancements */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+/* Print styles */
+@media print {
+    .main-nav,
+    .button,
+    .accessibility-controls {
+        display: none;
+    }
+    
+    body {
+        background: white;
+        color: black;
+    }
+    
+    .feature-card {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+} 

@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "category": "education",
+            "question": "What right ensures that children can go to school?",
+            "options": [
+                "Right to Education",
+                "Right to Play",
+                "Right to Privacy",
+                "Right to Food"
+            ],
+            "correct": 0,
+            "explanation": "The Right to Education means that all children have the right to go to school and learn."
+        },
+        {
+            "category": "health",
+            "question": "Which right ensures children have access to healthcare?",
+            "options": [
+                "Right to Health",
+                "Right to Education",
+                "Right to Play",
+                "Right to Privacy"
+            ],
+            "correct": 0,
+            "explanation": "The Right to Health ensures children have access to healthcare services and a healthy environment."
+        },
+        {
+            "category": "protection",
+            "question": "What right protects children from harm and abuse?",
+            "options": [
+                "Right to Protection",
+                "Right to Education",
+                "Right to Play",
+                "Right to Expression"
+            ],
+            "correct": 0,
+            "explanation": "The Right to Protection ensures children are safe from harm, abuse, and exploitation."
+        },
+        {
+            "category": "play",
+            "question": "Which right allows children to have fun and rest?",
+            "options": [
+                "Right to Play",
+                "Right to Education",
+                "Right to Health",
+                "Right to Privacy"
+            ],
+            "correct": 0,
+            "explanation": "The Right to Play ensures children have time for recreation and leisure activities."
+        },
+        {
+            "category": "expression",
+            "question": "What right allows children to share their thoughts and feelings?",
+            "options": [
+                "Right to Expression",
+                "Right to Education",
+                "Right to Play",
+                "Right to Health"
+            ],
+            "correct": 0,
+            "explanation": "The Right to Expression allows children to freely express their views and opinions."
+        },
+        {
+            "category": "privacy",
+            "question": "Which right protects children's personal information?",
+            "options": [
+                "Right to Privacy",
+                "Right to Education",
+                "Right to Play",
+                "Right to Expression"
+            ],
+            "correct": 0,
+            "explanation": "The Right to Privacy ensures children's personal information is kept safe and secure."
+        }
+    ]
+} 
