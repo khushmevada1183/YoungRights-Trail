@@ -4,71 +4,108 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="YoungRights Trail - An interactive platform for children to learn about their rights through stories, quizzes, and games">
+  <meta name="theme-color" content="#2C3E50">
   <title>YoungRights Trail - Learn About Your Rights</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/responsive.css">
-  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 </head>
 
 <body>
-  <nav class="main-nav">
-    <div class="logo">
-      <img src="assets/images/youngrights-trail-logo.svg" alt="YoungRights Trail Logo" class="logo-image">
-    </div>
-    <ul class="nav-links">
-      <li><a href="index.html" class="nav-link home active">
-          <i class="icon-home"></i>
-          <span>Home</span>
-        </a></li>
-      <li><a href="pages/stories.html" class="nav-link stories">
-          <i class="icon-book"></i>
-          <span>Stories</span>
-        </a></li>
-      <li><a href="pages/quizzes.html" class="nav-link quizzes">
-          <i class="icon-game"></i>
-          <span>Quiz Games</span>
-        </a></li>
-      <li><a href="pages/rights-map.html" class="nav-link map">
-          <i class="icon-map"></i>
-          <span>Rights Map</span>
-        </a></li>
-    </ul>
-  </nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
+  <header>
+    <nav class="main-nav" aria-label="Main navigation">
+      <div class="logo">
+        <a href="index.html" aria-label="YoungRights Trail Home">
+          <img src="assets/images/youngrights-trail-logo.svg" alt="YoungRights Trail Logo" class="logo-image" width="180" height="50">
+        </a>
+      </div>
+      <ul class="nav-links" role="menubar">
+        <li role="none">
+          <a href="index.html" class="nav-link home active" role="menuitem" aria-current="page">
+            <svg class="icon" aria-hidden="true">
+              <use href="assets/images/sprite.svg#icon-home"></use>
+            </svg>
+            <span>Home</span>
+          </a>
+        </li>
+        <li role="none">
+          <a href="pages/stories.html" class="nav-link stories" role="menuitem">
+            <svg class="icon" aria-hidden="true">
+              <use href="assets/images/sprite.svg#icon-book"></use>
+            </svg>
+            <span>Stories</span>
+          </a>
+        </li>
+        <li role="none">
+          <a href="pages/quizzes.html" class="nav-link quizzes" role="menuitem">
+            <svg class="icon" aria-hidden="true">
+              <use href="assets/images/sprite.svg#icon-game"></use>
+            </svg>
+            <span>Quiz Games</span>
+          </a>
+        </li>
+        <li role="none">
+          <a href="pages/rights-map.html" class="nav-link map" role="menuitem">
+            <svg class="icon" aria-hidden="true">
+              <use href="assets/images/sprite.svg#icon-map"></use>
+            </svg>
+            <span>Rights Map</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
 
   <main id="main-content">
-    <section class="hero">
-      <h1>Welcome to YoungRights Trail</h1>
-      <p>Learn about your rights through interactive stories, quizzes, and more!</p>
-    </section>
+    <div class="container">
+      <section class="hero" aria-labelledby="hero-title" data-aos="fade-up">
+        <div class="hero-content">
+          <h1 id="hero-title">Welcome to YoungRights Trail</h1>
+          <p>Learn about your rights through interactive stories, quizzes, and more!</p>
+        </div>
+      </section>
 
-    <section class="features">
-      <div class="feature-card">
-        <img src="assets/images/icons/education.svg" alt="Education" class="feature-icon">
-        <h3>Interactive Stories</h3>
-        <p>Read and listen to stories about children's rights.</p>
-        <a href="pages/stories.html" class="button">Read Stories</a>
-      </div>
-      <div class="feature-card">
-        <img src="assets/images/icons/game.svg" alt="Quiz" class="feature-icon">
-        <h3>Quiz Games</h3>
-        <p>Test your knowledge about children's rights.</p>
-        <a href="pages/quizzes.html" class="button">Play Quiz</a>
-      </div>
-      <div class="feature-card">
-        <img src="assets/images/icons/map.svg" alt="Rights Map" class="feature-icon">
-        <h3>Rights Map</h3>
-        <p>Explore different rights through an interactive map.</p>
-        <a href="pages/rights-map.html" class="button">Explore Map</a>
-      </div>
-    </section>
+      <section class="features" aria-label="Features">
+        <article class="feature-card" data-aos="fade-up" data-aos-delay="100">
+          <div class="feature-content">
+            <img src="assets/images/icons/education.svg" alt="" class="feature-icon" aria-hidden="true" width="100" height="100">
+            <h2>Interactive Stories</h2>
+            <p>Read and listen to stories about children's rights.</p>
+            <a href="pages/stories.html" class="button">Read Stories</a>
+          </div>
+        </article>
+        <article class="feature-card" data-aos="fade-up" data-aos-delay="200">
+          <div class="feature-content">
+            <img src="assets/images/icons/game.svg" alt="" class="feature-icon" aria-hidden="true" width="100" height="100">
+            <h2>Quiz Games</h2>
+            <p>Test your knowledge about children's rights.</p>
+            <a href="pages/quizzes.html" class="button">Play Quiz</a>
+          </div>
+        </article>
+        <article class="feature-card" data-aos="fade-up" data-aos-delay="300">
+          <div class="feature-content">
+            <img src="assets/images/icons/map.svg" alt="" class="feature-icon" aria-hidden="true" width="100" height="100">
+            <h2>Rights Map</h2>
+            <p>Explore different rights through an interactive map.</p>
+            <a href="pages/rights-map.html" class="button">Explore Map</a>
+          </div>
+        </article>
+      </section>
+    </div>
   </main>
 
   <footer>
-    <p>&copy; 2024 YoungRights Trail. All rights reserved.</p>
+    <p>&copy; <span id="current-year">2024</span> YoungRights Trail. All rights reserved.</p>
   </footer>
 
-  <script src="js/main.js"></script>
-  <script src="js/accessibility.js"></script>
+  <script src="js/main.js" defer></script>
+  <script src="js/accessibility.js" defer></script>
 </body>
 
 </html>
