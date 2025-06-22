@@ -9,10 +9,12 @@ import RightsMap from '@/pages/RightsMap';
 import RightsGuide from '@/pages/RightsGuide';
 import News from '@/pages/News';
 import '@/styles/animations.css';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <Header />
       <main>
         <Routes>
