@@ -1,0 +1,20 @@
+{
+    "name": "YoungRights Trail",
+    "short_name": "YoungRights",
+    "description": "Learn about your rights through interactive stories, quizzes, and more!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f9f9f9",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "assets/images/youngrights-trail-logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "orientation": "any",
+    "categories": ["education", "kids", "learning"],
+    "related_applications": [],
+    "prefer_related_applications": false
+} 

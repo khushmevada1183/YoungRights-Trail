@@ -1,0 +1,83 @@
+{
+  "stories": [
+    {
+      "id": "story-1",
+      "title": "Mia's Voice",
+      "protagonist": "Mia",
+      "cover_image": "/assets/images/characters/mia.svg",
+      "related_right": "Freedom of Expression",
+      "summary": "A story about a young girl named Mia who learns the importance of speaking up and sharing her ideas to make her community a better place.",
+      "paragraphs": [
+        "In the colourful town of Harmony, lived a curious and bright young girl named Mia. She had a thousand ideas buzzing in her head, but she was often too shy to share them.",
+        "One day, the town announced a competition to design a new park. Mia had a wonderful idea for a park with a rainbow slide, talking trees, and a butterfly garden. She spent days sketching her design, pouring all her imagination onto the paper.",
+        "When it was time to present the ideas, Mia felt her heart race. She saw others with big, bold plans. Taking a deep breath, she remembered her right to express herself. She stood up and, in a clear voice, explained her vision for a park that was for everyone.",
+        "The judges were captivated by her unique and inclusive ideas. They didn't just see a drawing; they saw a vision of a joyful community space. Mia's design won!",
+        "From that day on, Mia was no longer afraid to share her thoughts. She learned that her voice, no matter how small, had the power to create beautiful change. The new park became the heart of the town, a symbol of what happens when every voice is heard."
+      ],
+      "discussion_questions": [
+        "Why was Mia initially afraid to share her ideas?",
+        "How did remembering her 'Right to Expression' help Mia?",
+        "Can you think of a time when sharing your idea made a positive change?"
+      ]
+    },
+    {
+      "id": "story-2",
+      "title": "Leo's Classroom",
+      "protagonist": "Leo",
+      "cover_image": "/assets/images/characters/mia.svg",
+      "related_right": "Right to Education",
+      "summary": "Leo discovers that learning isn't just for some, but for all children, and helps his friend get back to school.",
+      "paragraphs": [
+        "Leo loved school. He loved learning about stars, reading adventure stories, and solving tricky math puzzles. His school was a happy place, full of laughter and discovery.",
+        "One afternoon, he noticed his friend, Sam, hadn't been in class for a week. Worried, he went to Sam's house and found him working at his family's shop. Sam explained that his family needed help and couldn't afford for him to be in school.",
+        "Leo was sad and confused. He knew every child had the Right to Education. He talked to his teacher, Ms. Anya, about Sam. Together, they visited Sam's family and explained that education was free and that there were programs to help families in need.",
+        "It took some convincing, but Sam's parents finally agreed. The next day, Sam was back in class, his face lit up with a huge smile. Leo understood that the Right to Education wasn't just about attending school; it was about ensuring every child has the chance to learn and dream."
+      ],
+      "discussion_questions": [
+        "Why couldn't Sam go to school?",
+        "What steps did Leo take to help his friend?",
+        "Why is the Right to Education important for every child?"
+      ]
+    },
+    {
+      "id": "story-3",
+      "title": "The Forgotten Playground",
+      "protagonist": "Aisha",
+      "cover_image": "/assets/images/characters/mia.svg",
+      "related_right": "Right to Play",
+      "summary": "Aisha and her friends campaign to have their old, broken playground rebuilt, reminding everyone that play is a right, not a luxury.",
+      "paragraphs": [
+        "The old playground at the edge of town was a sad sight. The swings were broken, the slide was rusty, and the grass was overgrown. Aisha and her friends missed having a place to run, jump, and laugh.",
+        "One day, Aisha read about the 'Right to Play' in a book. 'Every child has the right to rest and leisure, to engage in play and recreational activities,' she read aloud to her friends. A spark ignited in their eyes.",
+        "They decided to take action. They drew pictures of their dream playground, wrote a letter to the mayor, and even organized a small bake sale to show they were serious. They explained to everyone who would listen that playing wasn't just about fun; it helped them grow strong, creative, and happy.",
+        "Their passion was contagious. The town council, moved by their efforts, approved the funds to rebuild the playground. It was a community effort, with parents and children helping to paint and plant flowers.",
+        "The new playground was more beautiful than they had ever imagined. It was a testament to their belief that every child deserves a safe and happy place to play."
+      ],
+      "discussion_questions": [
+        "What problem did Aisha and her friends face?",
+        "How did learning about the 'Right to Play' empower them?",
+        "What does this story teach us about teamwork and advocating for our rights?"
+      ]
+    },
+    {
+      "id": "story-4",
+      "title": "The Secret Diary",
+      "protagonist": "Tom",
+      "cover_image": "/assets/images/characters/mia.svg",
+      "related_right": "Right to Privacy",
+      "summary": "Tom learns about the importance of privacy when his older brother reads his secret diary without permission.",
+      "paragraphs": [
+        "Tom had a secret. It wasn't a big secret, but it was his. He kept a diary where he wrote down his thoughts, his dreams, and sometimes, his frustrations. It was his private world.",
+        "One afternoon, he found his older brother, Mark, reading his diary. Tom felt a hot rush of anger and embarrassment. His private thoughts were no longer his own. 'Why did you do that?' he yelled.",
+        "Mark just shrugged. 'It's not a big deal.' But to Tom, it was. He spoke to his mom, who sat them both down. She explained to Mark that everyone, including children, has a 'Right to Privacy'.",
+        "'Tom's diary is his personal space,' she said gently but firmly. 'Reading it without his permission is like walking into his room without knocking. It's a matter of respect.'",
+        "Mark, seeing how upset Tom was, finally understood. He apologized sincerely. Tom learned that it was okay to have his own private thoughts and that respecting the privacy of others was a cornerstone of trust and friendship."
+      ],
+      "discussion_questions": [
+        "Why was Tom upset with his brother?",
+        "What is the connection between privacy and respect?",
+        "In what other situations is a child's right to privacy important?"
+      ]
+    }
+  ]
+} 

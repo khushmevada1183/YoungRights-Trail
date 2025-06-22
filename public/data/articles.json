@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "id": "article-1",
+      "title": "UNICEF report highlights the impact of climate change on children's rights",
+      "source": "UNICEF Official",
+      "date": "2024-10-26",
+      "summary": "A new report from UNICEF details the profound and escalating impact of climate change on children's fundamental rights to health, education, and protection...",
+      "url": "https://www.unicef.org/"
+    },
+    {
+      "id": "article-2",
+      "title": "Global summit calls for stronger protection of digital rights for youth",
+      "source": "Human Rights Watch",
+      "date": "2024-10-24",
+      "summary": "Leaders and activists at the Global Digital Summit have issued a joint call to action for governments and tech companies to better protect children's rights online...",
+      "url": "https://www.hrw.org/"
+    },
+    {
+      "id": "article-3",
+      "title": "New educational programs launched to empower children in underserved regions",
+      "source": "Save the Children",
+      "date": "2024-10-22",
+      "summary": "Save the Children has announced the launch of several new educational initiatives aimed at providing quality learning resources to millions of children in conflict zones...",
+      "url": "https://www.savethechildren.org/"
+    },
+    {
+      "id": "article-4",
+      "title": "Fact Sheet: The Right to Play",
+      "source": "United Nations",
+      "date": "2024-10-20",
+      "summary": "The UN has released a new fact sheet emphasizing the importance of the Right to Play as a critical component of every child's development, health, and well-being.",
+      "url": "https://www.un.org/en/observances/world-childrens-day"
+    },
+    {
+      "id": "article-5",
+      "title": "Mental Health Support for Children in Crisis a Top Priority, says WHO",
+      "source": "World Health Organization",
+      "date": "2024-10-18",
+      "summary": "The World Health Organization is calling for increased funding and resources for mental health services for children living in areas affected by conflict and disaster.",
+      "url": "https://www.who.int/"
+    },
+    {
+      "id": "article-6",
+      "title": "The Challenge of Ensuring Education for Refugee Children",
+      "source": "UNHCR",
+      "date": "2024-10-15",
+      "summary": "The UN Refugee Agency has published its annual education report, highlighting the significant challenges and funding gaps in providing education for refugee children worldwide.",
+      "url": "https://www.unhcr.org/what-we-do/protect-human-rights/education"
+    }
+  ]
+} 

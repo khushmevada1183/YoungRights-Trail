@@ -1,0 +1,68 @@
+{
+    "continents": [
+      {
+        "name": "Africa",
+        "coordinates": [21.0936, 7.1881], "zoom": 2.5,
+        "stats": "Over 50% of the world's out-of-school children live in Africa.",
+        "challenges": "Conflict, poverty, and lack of infrastructure pose significant challenges to implementing children's rights.",
+        "charter": "The African Charter on the Rights and Welfare of the Child.",
+        "countries": [
+          { "name": "Nigeria", "coordinates": [8.6753, 9.0820], "info": "Nigeria has the largest number of out-of-school children in the world (estimated at around 10.5 million)." },
+          { "name": "South Africa", "coordinates": [24.7816, -28.4793], "info": "South Africa has strong constitutional protections for children but faces challenges of inequality and violence." }
+        ]
+      },
+      {
+        "name": "Asia",
+        "coordinates": [103.8198, 34.0479], "zoom": 2.2,
+        "stats": "Asia is home to the largest number of child laborers in the world.",
+        "challenges": "Trafficking, child marriage, and disparities in education access between urban and rural areas are major concerns.",
+        "charter": "Many countries have national plans, but regional coordination is growing through bodies like ASEAN.",
+        "countries": [
+            { "name": "India", "coordinates": [78.9629, 20.5937], "info": "India's 'Child Labour (Prohibition and Regulation) Act' was amended in 2016 to strengthen protections against child labor." },
+            { "name": "China", "coordinates": [104.1954, 35.8617], "info": "China has made significant strides in education, achieving near-universal primary school attendance." }
+        ]
+      },
+      {
+        "name": "Europe",
+        "coordinates": [15.2551, 54.5260], "zoom": 3,
+        "stats": "Europe has some of the strongest legal protections for children globally.",
+        "challenges": "Protecting migrant and refugee children, and combating online exploitation are key priorities.",
+        "charter": "The Council of Europe Strategy for the Rights of the Child.",
+        "countries": [
+            { "name": "United Kingdom", "coordinates": [-2.2426, 53.4808], "info": "The UK has an independent Children's Commissioner to champion the rights of children." },
+            { "name": "Germany", "coordinates": [10.4515, 51.1657], "info": "Germany has robust social support systems but faces challenges in integrating refugee children into the education system." }
+        ]
+      },
+      {
+        "name": "North America",
+        "coordinates": [-95.7129, 37.0902], "zoom": 3,
+        "stats": "Issues of child poverty and access to mental health services are significant.",
+        "challenges": "Ensuring equal opportunities for all children, regardless of their background, and addressing the digital divide.",
+        "charter": "National laws and policies are the primary mechanisms, with active participation in UN conventions.",
+        "countries": [
+            { "name": "USA", "coordinates": [-95.7129, 38.0902], "info": "The United States is the only UN member state that has not ratified the Convention on the Rights of the Child." },
+            { "name": "Canada", "coordinates": [-106.3468, 56.1304], "info": "Canada has a strong focus on reconciliation with Indigenous peoples, including addressing the historical impact on children's rights." }
+        ]
+      },
+      {
+        "name": "South America",
+        "coordinates": [-58.3816, -34.6037], "zoom": 3,
+        "stats": "Significant progress has been made in increasing primary school enrollment.",
+        "challenges": "Inequality, violence against children, and the impact of environmental issues on indigenous communities.",
+        "charter": "The Organization of American States (OAS) works to promote and protect human rights in the region.",
+        "countries": [
+            { "name": "Brazil", "coordinates": [-51.9253, -14.2350], "info": "Brazil's 'Statute of the Child and Adolescent' is a comprehensive legal framework for protecting children's rights." }
+        ]
+      },
+      {
+        "name": "Oceania",
+        "coordinates": [133.7751, -25.2744], "zoom": 3,
+        "stats": "Climate change poses a direct threat to the rights of children living on low-lying islands.",
+        "challenges": "Providing quality education and healthcare to remote and indigenous populations.",
+        "charter": "Dominated by national-level frameworks in Australia and New Zealand, with regional cooperation on child protection.",
+        "countries": [
+            { "name": "Australia", "coordinates": [133.7751, -25.2744], "info": "Australia faces challenges in addressing the disparities in health and education outcomes for Indigenous children." }
+        ]
+      }
+    ]
+  } 

@@ -1,0 +1,92 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary purpose of the 'Right to Education'?",
+            "options": [
+                "To ensure all children can play video games",
+                "To guarantee every child access to free and compulsory primary education",
+                "To make sure children can work in factories",
+                "To allow children to vote in elections"
+            ],
+            "correct": 1,
+            "explanation": "The Right to Education is a fundamental human right that ensures all children have access to quality education, which is crucial for their development."
+        },
+        {
+            "question": "The 'Right to Protection from Exploitation' protects children from:",
+            "options": [
+                "Eating too much candy",
+                "Harmful work, trafficking, and abuse",
+                "Doing homework",
+                "Playing outside after dark"
+            ],
+            "correct": 1,
+            "explanation": "This right ensures that children are safe from any form of economic exploitation, trafficking, and physical or sexual abuse."
+        },
+        {
+            "question": "What does the 'Right to Freedom of Expression' allow children to do?",
+            "options": [
+                "To drive a car",
+                "To ignore their parents",
+                "To share their views and opinions freely, as long as it respects others",
+                "To decide their own bedtime"
+            ],
+            "correct": 2,
+            "explanation": "This right empowers children to express their thoughts and opinions, which helps them develop their identity and participate in society."
+        },
+        {
+            "question": "The 'Right to Health' ensures that every child has access to:",
+            "options": [
+                "The latest smartphones",
+                "Designer clothes",
+                "The highest attainable standard of health and medical care services",
+                "A personal chef"
+            ],
+            "correct": 2,
+            "explanation": "The Right to Health includes access to healthcare, nutritious food, clean water, and a safe environment to grow up healthy."
+        },
+        {
+            "question": "The 'Right to Play' means that children should have:",
+            "options": [
+                "Time for rest, leisure, and recreational activities",
+                "Unlimited screen time",
+                "The newest toys every month",
+                "A job to pay for their hobbies"
+            ],
+            "correct": 0,
+            "explanation": "Play is essential for a child's physical, mental, and social development. The Right to Play ensures children have the time and space for these crucial activities."
+        },
+        {
+            "question": "What does the 'Right to a Name and Nationality' mean?",
+            "options": [
+                "Children can choose their own name",
+                "Children have the right to a legal identity, including a name and a country they belong to",
+                "Children must change their name when they turn 18",
+                "Children can have multiple passports"
+            ],
+            "correct": 1,
+            "explanation": "This right is fundamental to a child's identity and ensures they are recognized as a member of a country and society, which helps protect their other rights."
+        },
+        {
+            "question": "If a child's parents live apart, the child has the right to:",
+            "options": [
+                "Choose which parent to live with immediately",
+                "Never see one of the parents again",
+                "Stay in contact with both parents, unless it might harm the child",
+                "Live in a castle"
+            ],
+            "correct": 2,
+            "explanation": "Children have the right to maintain a relationship with both parents, and decisions about their care should be made with the child's best interests as the primary consideration."
+        },
+        {
+            "question": "The 'Right to be Protected from Violence' applies to violence from:",
+            "options": [
+                "Only strangers",
+                "Only at school",
+                "Only bullies",
+                "Anyone, including family members, caregivers, and peers"
+            ],
+            "correct": 3,
+            "explanation": "Every child has the right to be safe from all forms of physical or mental violence, injury or abuse, neglect, and maltreatment. This protection is universal."
+        }
+    ]
+} 

@@ -1,0 +1,619 @@
+{
+  "rights": [
+    {
+      "id": "education",
+      "title": "Right to Education",
+      "icon": "education",
+      "description": "Every child has the right to an education that develops their personality, talents and abilities to the fullest. Education should teach children to respect human rights and their own and other cultures. It should help them to live peacefully, protect the environment and respect other people.",
+      "articles": [
+        {
+          "number": "28",
+          "text": "Children have the right to an education. Discipline in schools should respect children's human dignity. Primary education should be free. Wealthy countries should help poorer countries achieve this."
+        },
+        {
+          "number": "29",
+          "text": "Education should develop each child's personality, talents and abilities to the fullest. It should encourage children to respect others' human rights and their own and other cultures."
+        }
+      ],
+      "examples": [
+        {
+          "title": "School for All Initiative",
+          "description": "In rural Ethiopia, a program has established over 1,000 community schools to ensure children in remote areas can access education, particularly focusing on girls who traditionally had lower enrollment rates.",
+          "location": "Ethiopia"
+        },
+        {
+          "title": "Digital Learning Bridge",
+          "description": "During the COVID-19 pandemic, Finland quickly transitioned to digital learning platforms, providing devices to students from low-income families to ensure educational continuity.",
+          "location": "Finland"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Finland",
+          "implementation": "Universal free education with highly trained teachers and minimal standardized testing",
+          "effectiveness": 95
+        },
+        {
+          "name": "United States",
+          "implementation": "Public education system with significant disparities based on location and income",
+          "effectiveness": 76
+        },
+        {
+          "name": "India",
+          "implementation": "Right to Education Act guarantees free education, but implementation varies widely",
+          "effectiveness": 62
+        },
+        {
+          "name": "Niger",
+          "implementation": "Limited educational infrastructure with high gender disparities",
+          "effectiveness": 38
+        }
+      ],
+      "challenges": [
+        "258 million children and youth are still out of school globally",
+        "Girls continue to face barriers to education in many regions",
+        "Children with disabilities often lack access to inclusive education",
+        "COVID-19 has disrupted education for 1.6 billion learners worldwide",
+        "Digital divide prevents many children from accessing online learning resources"
+      ]
+    },
+    {
+      "id": "protection",
+      "title": "Right to Protection",
+      "icon": "protection",
+      "description": "Children have the right to be protected from all forms of violence, abuse, neglect, and bad treatment. Governments must ensure that children are properly cared for and protected from violence, abuse and neglect by their parents or anyone else who looks after them.",
+      "articles": [
+        {
+          "number": "19",
+          "text": "Governments should ensure that children are properly cared for and protect them from violence, abuse and neglect by their parents or anyone else who looks after them."
+        },
+        {
+          "number": "34",
+          "text": "Governments should protect children from sexual abuse and exploitation."
+        },
+        {
+          "number": "35",
+          "text": "Governments should take all measures possible to make sure that children are not abducted or sold."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Child Protection Hotline",
+          "description": "Sweden established a 24/7 hotline specifically for children to report abuse or seek help, with trained counselors who can dispatch immediate assistance when needed.",
+          "location": "Sweden"
+        },
+        {
+          "title": "Community Guardian Program",
+          "description": "In Colombia, a network of community guardians has been trained to identify signs of child abuse and trafficking in high-risk areas, leading to a 30% reduction in child exploitation cases.",
+          "location": "Colombia"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Sweden",
+          "implementation": "Comprehensive child protection laws with strong enforcement and support services",
+          "effectiveness": 92
+        },
+        {
+          "name": "Australia",
+          "implementation": "National Framework for Protecting Australia's Children with coordinated approach",
+          "effectiveness": 85
+        },
+        {
+          "name": "Brazil",
+          "implementation": "Legal protections exist but enforcement is inconsistent across regions",
+          "effectiveness": 58
+        },
+        {
+          "name": "Afghanistan",
+          "implementation": "Limited legal framework with minimal enforcement capabilities",
+          "effectiveness": 25
+        }
+      ],
+      "challenges": [
+        "1 billion children worldwide experience some form of violence each year",
+        "Child trafficking affects an estimated 1.2 million children annually",
+        "Online exploitation has increased dramatically with digital technology",
+        "Children in conflict zones face heightened risks of violence and abuse",
+        "Cultural practices in some regions can normalize harmful practices against children"
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Right to Healthcare",
+      "icon": "health",
+      "description": "Every child has the right to the best possible health. Governments must provide good quality health care, clean water, nutritious food, and a clean environment and education on health and well-being so that children can stay healthy.",
+      "articles": [
+        {
+          "number": "24",
+          "text": "Children have the right to good quality health care, clean water, nutritious food and a clean environment so that they will stay healthy. Richer countries should help poorer countries achieve this."
+        },
+        {
+          "number": "26",
+          "text": "Governments should provide extra money for the children of families in need."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Universal Child Healthcare",
+          "description": "Costa Rica provides universal healthcare to all children regardless of citizenship status, with mobile clinics reaching remote areas to ensure access for all children.",
+          "location": "Costa Rica"
+        },
+        {
+          "title": "School Nutrition Program",
+          "description": "Japan's national school lunch program ensures all children receive a nutritionally balanced meal daily, contributing to one of the lowest childhood obesity rates in the developed world.",
+          "location": "Japan"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Norway",
+          "implementation": "Universal healthcare with specialized pediatric services and preventive care",
+          "effectiveness": 96
+        },
+        {
+          "name": "Thailand",
+          "implementation": "Universal coverage scheme that includes comprehensive child health services",
+          "effectiveness": 82
+        },
+        {
+          "name": "Mexico",
+          "implementation": "Seguro Popular program expanded coverage but quality varies by region",
+          "effectiveness": 70
+        },
+        {
+          "name": "Somalia",
+          "implementation": "Minimal healthcare infrastructure with heavy reliance on international aid",
+          "effectiveness": 20
+        }
+      ],
+      "challenges": [
+        "5.2 million children under 5 die each year from preventable causes",
+        "149 million children under 5 suffer from stunting due to malnutrition",
+        "2 billion people lack access to safe drinking water",
+        "Healthcare access is severely limited in conflict zones and refugee settings",
+        "Climate change is creating new health threats for children globally"
+      ]
+    },
+    {
+      "id": "expression",
+      "title": "Right to Expression",
+      "icon": "expression",
+      "description": "Children have the right to express their opinions freely and to have their opinions considered in any matter affecting them. As their capacities develop, children should have increasing opportunities to participate in society's activities, in preparation for adulthood.",
+      "articles": [
+        {
+          "number": "12",
+          "text": "Children have the right to give their opinions freely on issues that affect them. Adults should listen and take children seriously."
+        },
+        {
+          "number": "13",
+          "text": "Children have the right to share freely with others what they learn, think and feel, by talking, drawing, writing or in any other way unless it harms other people."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Youth Parliament",
+          "description": "The UK Youth Parliament allows young people aged 11-18 to be elected to represent their local area and debate issues that matter to them in the House of Commons annually.",
+          "location": "United Kingdom"
+        },
+        {
+          "title": "Children's News Network",
+          "description": "In South Korea, a national children's news network run entirely by children aged 10-16 reports on issues affecting young people, reaching millions of viewers weekly.",
+          "location": "South Korea"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Denmark",
+          "implementation": "Children's councils at local and national levels with meaningful input into policy",
+          "effectiveness": 90
+        },
+        {
+          "name": "Canada",
+          "implementation": "Various youth consultation mechanisms but limited direct impact on policy",
+          "effectiveness": 75
+        },
+        {
+          "name": "Tunisia",
+          "implementation": "Post-revolution reforms include youth participation structures",
+          "effectiveness": 60
+        },
+        {
+          "name": "Saudi Arabia",
+          "implementation": "Limited opportunities for children's expression, especially for girls",
+          "effectiveness": 30
+        }
+      ],
+      "challenges": [
+        "Cultural attitudes in many societies still view children's opinions as unimportant",
+        "Digital censorship restricts children's expression in many countries",
+        "Children from marginalized groups face additional barriers to being heard",
+        "School environments often discourage questioning and independent thinking",
+        "Children with disabilities frequently lack accessible communication channels"
+      ]
+    },
+    {
+      "id": "play",
+      "title": "Right to Play",
+      "icon": "play",
+      "description": "Children have the right to rest, relax, play and to take part in cultural and creative activities. Play is fundamental to children's physical, mental, and social development, helping them learn essential life skills in a natural way.",
+      "articles": [
+        {
+          "number": "31",
+          "text": "Children have the right to rest, relax, play and to take part in cultural and creative activities."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Urban Playground Initiative",
+          "description": "Barcelona has transformed 200 intersections into 'superblocks' - car-free play spaces where children can safely play outdoors in the urban environment.",
+          "location": "Spain"
+        },
+        {
+          "title": "Play in Refugee Camps",
+          "description": "In Jordanian refugee camps, dedicated child-friendly spaces provide structured play opportunities for Syrian refugee children, helping them process trauma and maintain normal development.",
+          "location": "Jordan"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Netherlands",
+          "implementation": "National play policy with mandated play spaces in urban planning",
+          "effectiveness": 88
+        },
+        {
+          "name": "Japan",
+          "implementation": "Balance of academic focus with protected play time in early education",
+          "effectiveness": 80
+        },
+        {
+          "name": "Chile",
+          "implementation": "Growing recognition of play importance but limited infrastructure",
+          "effectiveness": 65
+        },
+        {
+          "name": "Bangladesh",
+          "implementation": "Play often sacrificed for work or academic pressure in many areas",
+          "effectiveness": 40
+        }
+      ],
+      "challenges": [
+        "Increasing academic pressure reduces time for unstructured play",
+        "Urbanization has reduced safe outdoor play spaces in many communities",
+        "Screen time is replacing physical play for many children worldwide",
+        "Child labor prevents millions of children from having time to play",
+        "Play is often not prioritized in humanitarian crises and emergency responses"
+      ]
+    },
+    {
+      "id": "privacy",
+      "title": "Right to Privacy",
+      "icon": "privacy",
+      "description": "Children have a right to privacy. The law should protect them from attacks against their way of life, their good name, their families and their homes. In the digital age, this extends to protection of their personal data and online activities.",
+      "articles": [
+        {
+          "number": "16",
+          "text": "Children have the right to privacy. The law should protect them from attacks against their way of life, their good name, their families and their homes."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Digital Privacy Education",
+          "description": "Germany has implemented a nationwide digital literacy curriculum that teaches children about online privacy, data protection, and how to safeguard their personal information online.",
+          "location": "Germany"
+        },
+        {
+          "title": "Children's Data Protection Law",
+          "description": "South Korea's Youth Protection Revision Act specifically protects children's data online and requires parental consent for data collection from minors under 14.",
+          "location": "South Korea"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Germany",
+          "implementation": "Strong data protection laws specifically addressing children's privacy",
+          "effectiveness": 85
+        },
+        {
+          "name": "United Kingdom",
+          "implementation": "Age Appropriate Design Code sets standards for online services",
+          "effectiveness": 80
+        },
+        {
+          "name": "Argentina",
+          "implementation": "Personal Data Protection Law includes provisions for children",
+          "effectiveness": 60
+        },
+        {
+          "name": "China",
+          "implementation": "Growing regulations but extensive surveillance affects privacy",
+          "effectiveness": 35
+        }
+      ],
+      "challenges": [
+        "Digital platforms often collect extensive data from children without meaningful consent",
+        "Facial recognition and surveillance technologies increasingly target school environments",
+        "Parents often share children's information online without considering privacy implications",
+        "Many children lack understanding of digital privacy risks",
+        "Balancing safety monitoring with respect for privacy remains challenging"
+      ]
+    },
+    {
+      "id": "identity",
+      "title": "Right to Identity",
+      "icon": "identity",
+      "description": "Every child has the right to a name, nationality and family ties that are legally recognised and respected. This right ensures that children's personal identity is protected and preserved, including their name, nationality and family relations.",
+      "articles": [
+        {
+          "number": "7",
+          "text": "Children have the right to a name, officially recognised by the government, and the right to a nationality and, as far as possible, to know and be cared for by their parents."
+        },
+        {
+          "number": "8",
+          "text": "Governments must respect and protect children's identity, including their name, nationality and family ties."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Birth Registration Campaign",
+          "description": "UNICEF's campaign in Mozambique increased birth registration rates from 31% to 70% in five years, ensuring children's legal identity and access to services.",
+          "location": "Mozambique"
+        },
+        {
+          "title": "Stateless Children Support",
+          "description": "Thailand's legal reform in 2008 provided pathways to citizenship for stateless children born in the country, granting them access to education and healthcare.",
+          "location": "Thailand"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Netherlands",
+          "implementation": "Comprehensive birth registration system with near-universal coverage",
+          "effectiveness": 97
+        },
+        {
+          "name": "Ukraine",
+          "implementation": "Efforts to register children in conflict zones but challenges remain",
+          "effectiveness": 68
+        },
+        {
+          "name": "Dominican Republic",
+          "implementation": "Ongoing reforms to address statelessness among children of Haitian descent",
+          "effectiveness": 55
+        },
+        {
+          "name": "Myanmar",
+          "implementation": "Large populations of stateless children with limited access to registration",
+          "effectiveness": 20
+        }
+      ],
+      "challenges": [
+        "166 million children under 5 were not registered at birth in 2019",
+        "Stateless children often lack access to education and healthcare",
+        "Conflict and displacement make it difficult to maintain legal identity",
+        "Discriminatory laws can deny nationality based on gender or ethnicity",
+        "Digital ID systems raise privacy and exclusion concerns if not implemented carefully"
+      ]
+    },
+    {
+      "id": "participation",
+      "title": "Right to Participation",
+      "icon": "participation",
+      "description": "Children have the right to express their views freely in all matters affecting them, to be heard, and to have their views taken seriously according to their age and maturity.",
+      "articles": [
+        {
+          "number": "12",
+          "text": "Children have the right to give opinions on matters that affect them and to have those opinions taken into account."
+        },
+        {
+          "number": "13",
+          "text": "Children have the right to freedom of expression and to seek, receive and impart information and ideas of all kinds."        
+        }
+      ],
+      "examples": [
+        {
+          "title": "Youth Climate Strikes",
+          "description": "Millions of children and youth participate in climate strikes worldwide, influencing climate policy discussions at national and international levels.",
+          "location": "Global"
+        },
+        {
+          "title": "Children's Municipal Councils",
+          "description": "In Norway, children's councils are elected in many municipalities to advise local governments on issues affecting young people.",
+          "location": "Norway"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Sweden",
+          "implementation": "Strong youth participation mechanisms in schools and local government",
+          "effectiveness": 90
+        },
+        {
+          "name": "South Africa",
+          "implementation": "Children's Parliament provides input on national legislation",
+          "effectiveness": 72
+        },
+        {
+          "name": "Brazil",
+          "implementation": "Child participation recognized in statute but limited in practice",
+          "effectiveness": 60
+        },
+        {
+          "name": "Iran",
+          "implementation": "Few formal avenues for children to express views publicly",
+          "effectiveness": 25
+        }
+      ],
+      "challenges": [
+        "Cultural norms may discourage children from speaking up",
+        "Political environments can restrict freedom of expression",
+        "Digital divides limit participation via online platforms",
+        "Schools may prioritize rote learning over debate and dialogue",
+        "Marginalized children face additional barriers to participation"
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Right to Family Unity",
+      "icon": "family",
+      "description": "Children have the right to live with their parents unless it is not in their best interests. Governments must respect the child's right to family relations and provide special protection if families cannot care for their children.",
+      "articles": [
+        {
+          "number": "9",
+          "text": "Children must not be separated from their parents against their will, unless it is in the child's best interests (e.g., abuse or neglect)."
+        },
+        {
+          "number": "20",
+          "text": "Children who cannot be looked after by their own family have the right to special care and assistance provided by the state."        
+        }
+      ],
+      "examples": [
+        {
+          "title": "Family Reunification Program",
+          "description": "Germany's humanitarian program reunites unaccompanied refugee children with their parents when possible, prioritising the child's best interests.",
+          "location": "Germany"
+        },
+        {
+          "title": "Extended Family Foster Care",
+          "description": "In Kenya, government policy supports kinship care, allowing children to stay with relatives instead of institutional care whenever possible.",
+          "location": "Kenya"
+        }
+      ],
+      "countries": [
+        {
+          "name": "New Zealand",
+          "implementation": "Strong family preservation and whānau (extended family) care policies",
+          "effectiveness": 88
+        },
+        {
+          "name": "Spain",
+          "implementation": "Family reunification rights protected in immigration law, though delays occur",
+          "effectiveness": 75
+        },
+        {
+          "name": "Philippines",
+          "implementation": "Labour migration separates many families; government offers support programs",
+          "effectiveness": 55
+        },
+        {
+          "name": "Syria",
+          "implementation": "Conflict has displaced millions of children from their parents",
+          "effectiveness": 20
+        }
+      ],
+      "challenges": [
+        "Armed conflict and migration separate millions of families",
+        "Administrative barriers delay family reunification for refugee children",
+        "Poverty can lead to unnecessary separation through institutionalisation",
+        "LGBTQ+ parents may face legal hurdles to maintain family ties",
+        "COVID-19 travel restrictions disrupted family unity across borders"
+      ]
+    },
+    {
+      "id": "refugee",
+      "title": "Rights of Refugee & Migrant Children",
+      "icon": "refugee",
+      "description": "Children who are refugees or migrants have the right to special protection and assistance, including access to education, healthcare and protection from exploitation.",
+      "articles": [
+        {
+          "number": "22",
+          "text": "Children who are refugees or seeking asylum are entitled to appropriate protection and humanitarian assistance."        
+        }
+      ],
+      "examples": [
+        {
+          "title": "Education Cannot Wait Fund",
+          "description": "Global fund provides schooling for 4 million displaced children in crisis zones like Yemen and Syria.",
+          "location": "Global"
+        },
+        {
+          "title": "Health Access for Rohingya Children",
+          "description": "Bangladesh and NGOs run immunisation drives for Rohingya refugee children in Cox's Bazar camps.",
+          "location": "Bangladesh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "implementation": "Provides universal healthcare and schooling for asylum-seeking children",
+          "effectiveness": 85
+        },
+        {
+          "name": "Turkey",
+          "implementation": "Hosts 3.6 million Syrian refugees; children have access to public schools with language support",
+          "effectiveness": 70
+        },
+        {
+          "name": "Greece",
+          "implementation": "Overcrowded island camps limit children's access to basic services",
+          "effectiveness": 40
+        },
+        {
+          "name": "Libya",
+          "implementation": "Detention of migrant children and lack of services",
+          "effectiveness": 10
+        }
+      ],
+      "challenges": [
+        "Protracted conflicts displace children for years without stable services",
+        "Border pushbacks and detention violate child protection standards",
+        "Language barriers impede education and health access",
+        "Statelessness risk for children born in exile",
+        "Mental health impacts of trauma and uncertainty"
+      ]
+    },
+    {
+      "id": "disability",
+      "title": "Rights of Children with Disabilities",
+      "icon": "disability",
+      "description": "Children with disabilities have the right to full inclusion and participation in society, access to specialized services, and protection from discrimination.",
+      "articles": [
+        {
+          "number": "23",
+          "text": "Children with disabilities have the right to special care and support so they can live full and independent lives."        
+        }
+      ],
+      "examples": [
+        {
+          "title": "Inclusive Education Model",
+          "description": "Portugal transformed most special schools into inclusive schools, integrating 99% of students with disabilities in mainstream classrooms.",
+          "location": "Portugal"
+        },
+        {
+          "title": "Accessible Playgrounds Initiative",
+          "description": "The United States' \"Kiwanis Miracle League\" builds universal-design playgrounds so children of all abilities can play together.",
+          "location": "United States"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Finland",
+          "implementation": "Comprehensive inclusive education with personalised support",
+          "effectiveness": 92
+        },
+        {
+          "name": "Morocco",
+          "implementation": "National strategy for disability rights but limited rural reach",
+          "effectiveness": 58
+        },
+        {
+          "name": "India",
+          "implementation": "Right to Education Act includes provisions for children with disabilities but resource gaps remain",
+          "effectiveness": 45
+        },
+        {
+          "name": "Yemen",
+          "implementation": "Conflict and poverty severely restrict services for children with disabilities",
+          "effectiveness": 15
+        }
+      ],
+      "challenges": [
+        "150 million children live with some form of disability worldwide",
+        "Stigma and discrimination limit participation in many societies",
+        "Lack of accessible infrastructure and learning materials",
+        "Higher risk of violence and neglect",
+        "Under-resourcing of specialised services in low-income countries"
+      ]
+    }
+  ]
+} 

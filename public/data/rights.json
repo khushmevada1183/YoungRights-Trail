@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Survival Rights",
+      "icon": "/assets/images/icons/health.svg",
+      "description": "The basic rights needed to live and grow in a healthy way.",
+      "rights": [
+        { "name": "Right to Life", "detail": "Every child has the right to be born and to live." },
+        { "name": "Right to Health", "detail": "Access to quality healthcare, clean water, and nutritious food.", "case_study": "In many countries, organizations like UNICEF run vaccination campaigns to protect millions of children from preventable diseases, ensuring their right to health from a young age." },
+        { "name": "Right to Shelter", "detail": "A safe and decent place to live." },
+        { "name": "Right to a Standard of Living", "detail": "Access to a standard of living adequate for the child's physical, mental, spiritual, moral and social development."}
+      ]
+    },
+    {
+      "id": "cat-2",
+      "name": "Development Rights",
+      "icon": "/assets/images/icons/education.svg",
+      "description": "The rights that help children reach their fullest potential.",
+      "rights": [
+        { "name": "Right to Education", "detail": "Access to free primary education and opportunities for further learning.", "case_study": "Charities around the world work to build schools in remote areas, giving children who would otherwise have no access to learning the chance to go to school and build a future." },
+        { "name": "Right to Play", "detail": "The right to rest, leisure, and to engage in play and recreational activities." },
+        { "name": "Right to Information", "detail": "Access to information from various sources, and the right to freedom of thought." },
+        { "name": "Right to Culture, Arts and Language", "detail": "The right to participate in and enjoy cultural life and the arts." }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "name": "Protection Rights",
+      "icon": "/assets/images/icons/protection.svg",
+      "description": "The rights that keep children safe from harm and abuse.",
+      "rights": [
+        { "name": "Right to Protection from Exploitation", "detail": "Protection from harmful work, trafficking, and all forms of abuse.", "case_study": "Many countries have passed strict laws against child labor, setting a minimum age for work and ensuring that school comes before employment, protecting children's futures." },
+        { "name": "Right to Privacy", "detail": "Protection from interference with a child's private and family life." },
+        { "name": "Right to a Safe Environment", "detail": "The right to grow up in a safe and caring environment." },
+        { "name": "Right to Protection in Armed Conflict", "detail": "Special protection for children affected by war and armed conflicts." }
+      ]
+    },
+    {
+      "id": "cat-4",
+      "name": "Participation Rights",
+      "icon": "/assets/images/icons/expression.svg",
+      "description": "The rights that allow children to be active in their societies.",
+      "rights": [
+        { "name": "Right to Freedom of Expression", "detail": "The right to express their views, thoughts, and opinions freely.", "case_study": "Youth councils and parliaments are being established globally, giving young people a formal platform to voice their opinions on issues that affect their communities directly." },
+        { "name": "Right to Association", "detail": "The right to join or form groups and to meet with others." },
+        { "name": "Right to Participate in Decisions", "detail": "The right to be heard in any decision-making process that affects them." },
+        { "name": "Right to a Name and Nationality", "detail": "The right to have a name and be recognized as a citizen of a country." }
+      ]
+    }
+  ]
+} 

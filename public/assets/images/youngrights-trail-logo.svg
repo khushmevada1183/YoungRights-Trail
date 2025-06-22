@@ -1,0 +1,21 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .text {
+            font-family: 'Poppins', sans-serif;
+            font-size: 28px;
+            font-weight: 600;
+            fill: var(--primary-color, #E5E7EB);
+        }
+        .highlight {
+            fill: var(--accent-color, #34D399);
+        }
+    </style>
+    <g>
+        <text x="0" y="35" class="text">
+            Young<tspan class="highlight">Rights</tspan>
+        </text>
+        <path d="M190,25 a1,1 0 0,1 0,0.01" stroke="var(--accent-color, #34D399)" stroke-width="4" />
+        <line x1="175" y1="25" x2="195" y2="25" stroke="var(--accent-color, #34D399)" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="185" y1="15" x2="185" y2="35" stroke="var(--accent-color, #34D399)" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+</svg> 
